@@ -1,18 +1,4 @@
-[
-    {  
-  "Name": "Ahmed ",
-  "userId": 3,
-  "Result": "we found it !"},
-   {  
-  "Name": "Ali ",
-  "userId": 4,
-  "Result": "we found it !"},
- {  
-  "Name": "Aee ",
-  "userId": 5,
-  "Result": "we found it !"},
- {  
-  "Name": "Ahmed ",
-  "userId": 6,
-  "Result": "we found it !"}
-]
+{
+  "url": "",
+  "result": "Unknown"
+}
